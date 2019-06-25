@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498db</color>
+    <color name="colorPrimaryDark">#3498db</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="semiwhite">#E9E9E9</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#994c00</color>
+    <color name="bg_screen2">#59baae</color>
+    <color name="bg_screen3">#8683ba</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#e4b5fc</color>
+
+    <color name="iqra1">#c63635</color>
+    <color name="iqra2">#085737</color>
+    <color name="iqra3">#0060a3</color>
+    <color name="iqra4">#cb703d</color>
+    <color name="iqra5">#683168</color>
+    <color name="iqra6">#95513f</color>
+
+    <color name="soft1">#8683ba</color>
+    <color name="soft2">#57a3d9</color>
+    <color name="soft3">#8dc445</color>
+    <color name="soft4">#d64570</color>
+    <color name="soft5">#f4a337</color>
+    <color name="soft6">#1cae99</color>
+    <color name="soft7">#f16ba8</color>
+
+    <color name="background">#daeae7</color>
+    <color name="backgroudntua">#cbdbd8</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+    </array>
+</resources>
